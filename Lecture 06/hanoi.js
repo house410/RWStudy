@@ -6,4 +6,6 @@ b[2].style.display = 'block';
 b[3].style.display = 'block';
 b[4].style.display = 'block';
 b[5].style.display = 'block';
+
+var array = [];
   }
